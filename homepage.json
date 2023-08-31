@@ -1,5 +1,11 @@
 {
-  "title": "Hello World",
+  "title": "Sarah Lenz",
   "headerImage": "IMG_4216",
-  "numberOfPosts": 4
+  "numberOfPosts": 4,
+  "capabilities": [
+    "People",
+    "Wedding",
+    "Animals",
+    "Travel"
+  ]
 }
